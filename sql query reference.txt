@@ -1,0 +1,30 @@
+create table posts (
+	id int(11) not null PRIMARY KEY AUTO_INCREMENT,
+    subject varchar(128) not null, 
+    content varchar(1000) not null,
+    date datetime not null
+);
+
+create table posts (
+    subject varchar(128) not null, 
+    content varchar(128) not null
+);
+
+
+
+INSERT INTO posts(subject, content, date) VALUES('this is the subject', 'lorem ipsum whatever', '2014-11-14 16:38:01');
+
+SELECT * FROM "posts";
+SELECT * FROM "posts" WHERE id=1 and subject="okay";
+SELECT * FROM posts ORDER BY id ASC;
+SELECT * FROM posts ORDER BY id DESC;
+SELECT * FROM posts ORDER BY subject;
+
+
+UPDATE posts
+SET subject='this is new', content='this is a content'
+WHERE id=1;
+
+DELETE FROM "posts" WHERE id=1;
+
+
