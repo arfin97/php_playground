@@ -30,4 +30,18 @@ format.
 <img src = "https://raw.githubusercontent.com/arfin97/php_playground/master/Food%20Order%20Registration/3.png?token=AYCaTTk8uiyONcT8l3r_5tgTakxGyAgkks5cvJs4wA%3D%3D">
 
 
+# 2. Pharmacy Management:
+## Problem Statement:
+<img src = "https://raw.githubusercontent.com/arfin97/php_playground/master/Pharmacy%20Management/problem%20statement.jpg?token=AYCaTXaT5XjTr05W8dFJaBdaEHqgGNN0ks5cvKBuwA%3D%3D">
 
+- Login
+<img src = "https://raw.githubusercontent.com/arfin97/php_playground/master/Pharmacy%20Management/screenshots/1.png?token=AYCaTShSG5kDOZni5sLVko_XxCaFErNvks5cvKAqwA%3D%3D">
+
+- Create Update Retrive Delete 
+<img src = "https://raw.githubusercontent.com/arfin97/php_playground/master/Pharmacy%20Management/screenshots/2.png?token=AYCaTanm9fCnT_uuQnPDONzWj9mc5txEks5cvKA1wA%3D%3D">
+
+- Database Model for User
+<img src = "https://raw.githubusercontent.com/arfin97/php_playground/master/Pharmacy%20Management/screenshots/4.png?token=AYCaTef_-2wQ03AOyu7sG9s7TRJqM3dxks5cvKBPwA%3D%3D">
+
+- Database Model for Medicine
+<img src = "https://raw.githubusercontent.com/arfin97/php_playground/master/Pharmacy%20Management/screenshots/3.png?token=AYCaTXnLYuQygOglFID3WD1ZUabftwoXks5cvKBDwA%3D%3D">
