@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+h1{
+	font-size: 16;
+	border: 1px solid black;
+}
+
+input{
+	margin: 15px;
+	border-radius: 5px;
+}
+
+
+
